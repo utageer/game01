@@ -1,2 +1,2 @@
 # game01
-This game is Janken. Written for Python. 
+This game is Janken. Written by Python. 
